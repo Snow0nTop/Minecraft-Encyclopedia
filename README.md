@@ -20,4 +20,4 @@ Courte description (1–2 phrases).
 - Il est recommandé de jouer en plein écran, sinon quelques bugs de placement des zones cliquables (rectangles) auront lieu.
 
 ## Lien du site
-https://github.com/Snow0nTop/Minecraft-Encyclopedia
+[https://github.com/Snow0nTop/Minecraft-Encyclopedia](https://snow0ntop.github.io/Minecraft-Encyclopedia/)
